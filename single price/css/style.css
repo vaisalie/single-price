@@ -1,0 +1,53 @@
+.front{
+    border: 1px solid #ffff;
+}
+.bg-dark{
+    color: aliceblue;
+}
+.bg-white{
+   
+    border: beige;
+    box-sizing: border-box;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+.bg-white h1{
+    color: hsl(179, 62%, 43% );
+    
+}
+.bg-white h2{
+    color: hsl(71, 73%, 54%);
+}
+.bg-white p{
+    font-size: 20px;
+    color: black
+    
+}
+.first{
+    background-color: hsl(179, 62%, 43%);
+    height: 391px;
+}
+.font-weight-light{
+    color:rgba(255, 255, 255, 0.459)
+}
+.transparency{
+    color: rgba(255, 255, 255, 0.438);
+}
+.btn-md-block{
+    background-color: hsl(71, 73%, 54%);
+    width: 240px;
+}
+.second{
+    background-color: hsl(179, 62%, 43%);
+    opacity: 0.75;
+    
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+    margin-right: 10px;
+}
+
+
+
+Bright Yellow: hsl(71, 73%, 54%)
+Light Gray: hsl(204, 43%, 93%)
+- Grayish Blue: hsl(218, 22%, 67%)
